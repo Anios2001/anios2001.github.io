@@ -1,6 +1,6 @@
 {
-    "name": "doctor_appointment_end",
-    "short_name": "doctor_appointment_end",
+    "name": "google_location_js_implementation",
+    "short_name": "google_location_js_implementation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
