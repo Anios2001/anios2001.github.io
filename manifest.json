@@ -1,6 +1,6 @@
 {
-    "name": "google_location_js_implementation",
-    "short_name": "google_location_js_implementation",
+    "name": "google_location_api_test",
+    "short_name": "google_location_api_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
