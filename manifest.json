@@ -1,6 +1,6 @@
 {
-    "name": "google_location_api_test",
-    "short_name": "google_location_api_test",
+    "name": "doctor_appointment_end",
+    "short_name": "doctor_appointment_end",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
